@@ -1,0 +1,16 @@
+{
+    "name": "node-red-contrib-whatsapp",
+    "version": "0.0.1",
+    "private": false,
+    "description": "A sample node for node-red",
+    "dependencies": {},
+    "keywords": [
+        "node-red"
+    ],
+    "license": "MIT",
+    "node-red": {
+        "nodes": {
+            "sample": "whatsapp/whatsapp.js"
+        }
+    }
+}
